@@ -5,7 +5,7 @@
 
 Before you start, make sure you have installed all npm packages and dependencies
 
-## Built With
+## Build With
 
 * [Bootstrap](https://getbootstrap.com/) 
 * [Slick](http://kenwheeler.github.io/slick/) 
